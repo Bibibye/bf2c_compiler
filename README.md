@@ -9,5 +9,5 @@ You can try the compiler with the following commands :
 
 ```
 make
-./bf2c hello_world.bf
+./bf2c < hello_world.bf
 ```
