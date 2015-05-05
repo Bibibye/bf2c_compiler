@@ -8,6 +8,6 @@ You will need flex, gcc and make to compile the project.
 You can try the compiler with the following commands :
 
 ```
-make
-./bf2c < hello_world.bf
+$ make
+$ ./bf2c < hello_world.bf
 ```
